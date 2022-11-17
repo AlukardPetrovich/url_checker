@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MacOS
+.DS_Store
+
+# coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover 
+
+# VScode
+.vscode/
+vscode/

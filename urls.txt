@@ -1,0 +1,5 @@
+httpya.ru
+http://google.com
+https://stepik.org
+https://wikipedia.com
+http://voltacom.ru
